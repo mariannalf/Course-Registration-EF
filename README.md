@@ -21,6 +21,7 @@ Instructions to run application:
 =================================
 Run Commands in the folder CourseRegistration.Data:
 >>  dotnet tool install --global dotnet-ef
+>>
 >>  dotnet ef database update
 
 
