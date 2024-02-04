@@ -2,7 +2,6 @@ Assignment 2
 ============
 
    > **Task:** Submit to complete this assignment  
-   > Overdue - January 21 at 11:59 PM  
    > 30 Marks
 
 For this assignment, re-visit the Course Registration website you created in Assignment 1.
